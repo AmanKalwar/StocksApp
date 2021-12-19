@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_account_delete.xml" value="0.16576086956521738" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_buy_stock.xml" value="0.153125" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_change_email.xml" value="0.1296875" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_login.xml" value="0.17346014492753623" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_login_history.xml" value="0.115625" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_my_stock.xml" value="0.1" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_other_user.xml" value="0.103125" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_profile_screen.xml" value="0.165625" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_register.xml" value="0.17346014492753623" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_stock_buying.xml" value="0.16576086956521738" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_user_profile.xml" value="0.16983695652173914" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/activity_xlogin_history.xml" value="0.103125" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/fragment_first.xml" value="0.16576086956521738" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/fragment_second.xml" value="0.16354166666666667" />
+        <entry key="..\:/Diplomo project/KaniniStocks/app/src/main/res/layout/row_items.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/drawable-v24/app_background_view.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/drawable-v24/background_color.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/drawable-v24/progress_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/drawable/money.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/activity_account_delete.xml" value="0.275" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/activity_login.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/fragment_first.xml" value="0.275" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/fragment_second.xml" value="0.275" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/layout/loading_screen.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/KaniniStocksApp/KaniniStocks/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/drawable-v24/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/activity_confirm_orders.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/activity_my_stock.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/activity_stocks_page.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/activity_user_profile.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/items.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/nav_header.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/layout/order.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Administrator/Desktop/PriceApp/KaniniStocks/app/src/main/res/menu/nav_drawer_menu.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
