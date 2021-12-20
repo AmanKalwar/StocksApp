@@ -6,8 +6,6 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 
-class userProfile : AppCompatActivity() {
-
     class userProfile : AppCompatActivity() {
         lateinit var session:SessionManager
         override fun onCreate(savedInstanceState: Bundle?) {
@@ -38,4 +36,3 @@ class userProfile : AppCompatActivity() {
             }
         }
     }
-}
