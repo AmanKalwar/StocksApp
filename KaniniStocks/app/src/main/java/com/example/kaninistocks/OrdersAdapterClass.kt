@@ -29,7 +29,7 @@ class OrdersAdapterClass(var items:MutableList<stock>, var context: Context, var
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         Picasso.get().load(items[position]!!.url).into(holder.img)
         holder.names.text=items[position].name
-        holder.price.text="$ Price ${items[position].count!!.toInt()*items[position]!!.price}"
+        /*holder.price.text="$ Price ${items[position].count!!.toInt()*items[position]!!.price}"*/
         holder.countt.text="items ${items[position].count}"
     }
     inner class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {

@@ -12,11 +12,13 @@ interface UserDAO {
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     fun insert(user: User)
 
+
     @Query("DELETE FROM users WHERE email=:email")
-    suspend fun deleteuserAccount(email: String)
+    fun deleteuserAccount(email: String)
+
 
     @Query("UPDATE USERS Set email=:email")
-    suspend fun updateuserAccount(email: String)
+    fun updateuserAccount(email: String)
 
     @Query("SELECT * FROM users ORDER BY email DESC")
     fun getAllUsers(): LiveData<List<User>>
